@@ -1,0 +1,19 @@
+# Paths a los directorios
+
+# OS X
+#dropBoxEstructuraPath=/Users/juancalderon/Projects/sgc/dropbox/Dropbox/estructura
+#dropBoxVigentesPath=/Users/juancalderon/Projects/sgc/dropbox/Dropbox/vigentes
+#lucenIndexPath=/Users/juancalderon/Documents/lucene/index
+
+
+# CentOs
+#dropBoxEstructuraPath=
+#dropBoxVigentesPath=
+#lucenIndexPath=
+
+# Windows
+dropBoxTiposPath=C:\\Users\\juan.calderon\\SGCDropBox\\Dropbox\\estructura\\Tipos
+dropBoxDeptosPath=C:\\Users\\juan.calderon\\SGCDropBox\\Dropbox\\estructura\\Deptos
+dropBoxVigentesPath=C:\\Users\\juan.calderon\\SGCDropBox\\Dropbox\\vigentes
+lucenIndexPath=C:\\Users\\juan.calderon\\lucene\\index
+
